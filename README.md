@@ -4,7 +4,7 @@ This project analyzes how remote work impacts mental health using a global datas
 
 ## 📌 Overview
 
-- 📊 Dataset: [Remote Work & Mental Health on Kaggle](https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health/data)
+- 📊 Dataset: [Remote Work & Mental Health](https://www.kaggle.com/datasets/waqi786/remote-work-and-mental-health/data)
 - 🛠 Tools Used:
     - Python: Pandas, NumPy (data preprocessing)
     - Tableau: Interactive dashboard
