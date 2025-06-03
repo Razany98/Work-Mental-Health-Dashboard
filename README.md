@@ -26,18 +26,21 @@ This project analyzes how remote work impacts mental health using a global datas
 
 The dashboard contains 6 visualizations grouped into two main sheets:
 
+
 #### Sheet 1: Prevalence of Mental Issues
 - Mental health by work setup (remote vs hybrid vs onsite)
 - Mental issues by industry 
 - Mental health by years of experience and age group
+
+![Prevalence of Mental Issues Among Employees](Dashboard_Sheets/Prevalence_of_Mental_Issues_Among_Employees.png)
 
 #### Sheet 2: Possible Causes
 - High working hours = increased risk
 - Lack of access to mental health resources = major factor
 - Physical activity = protective factor against anxiety and burnout
 
-### 🎙 3-Minute Narrative
-> As work life becomes more intense, psychological stress rises. Our analysis shows that remote work, long hours, and lack of support can significantly impact mental well-being. By encouraging physical activity, limiting overwork, and providing better support systems, organizations can improve their employees’ mental health.
+![Factors Contributing to Mental Health Problems](Dashboard_Sheets/Factors_Contributing_to_Mental_Health_Problems.png)
+
 
 ## 📈 Key Insights
 
